@@ -6,6 +6,6 @@ Neste repositório, encontra-se um notebook com a formulação matemática do al
 
 São feitos dois modelos: um modelo de regressão linear com 1 feature, englobando o caso mais simples de regressão linear, e um modelo de regressão linear que suporta um número qualquer de features (o qual é, de fato, utilizado em ciência de dados), aplicado ao caso em que há 6 features contínuas.
 
-# Dados e definições: disponíveis também no notebook
+# Dados e definições (disponíveis também no notebook)
 
 ![alt text](https://github.com/Samirnunes/gradient_descent_implementation/blob/main/Imagens/dados_e_definicoes.PNG)
