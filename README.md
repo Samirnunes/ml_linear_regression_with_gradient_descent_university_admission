@@ -4,8 +4,16 @@ A regressão linear é um dos modelos mais conhecidos no contexto do aprendizado
 
 Neste repositório, encontra-se um notebook com a formulação matemática do algoritmo de Gradiente Descendente Estocástico e com sua implementação em modelos de regressão linear aplicados no dataset "Data for Admission in the University", disponível no Kaggle, para prever a chance de admissão de estudantes em universidades de diferentes classificações com base em seu desempenho acadêmico anterior.
 
-São feitos dois modelos: um modelo de regressão linear com 1 feature, englobando o caso mais simples de regressão linear, e um modelo de regressão linear que suporta um número qualquer de features (o qual é, de fato, utilizado em ciência de dados), aplicado ao caso em que há 6 features contínuas.
+São feitos dois modelos: um modelo de regressão linear com 1 feature, abordando o caso mais simples, e um modelo de regressão linear que suporta um número qualquer de features (o qual é, de fato, utilizado em ciência de dados), aplicado ao caso em que há 6 features contínuas.
 
-# Dados e definições (disponíveis também no notebook)
+# Dados e Definições (disponíveis também no notebook)
 
 ![alt text](https://github.com/Samirnunes/gradient_descent_implementation/blob/main/Imagens/dados_e_definicoes.PNG)
+
+# Tecnologias e Bibliotecas Utilizadas
+
+- Jupyter Notebook
+- Python
+- Pandas
+- Numpy
+- Matplotlib
