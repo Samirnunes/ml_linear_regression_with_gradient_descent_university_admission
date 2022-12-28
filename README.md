@@ -1,4 +1,4 @@
-# Implementação do Gradiente Descendente Estocástico com Mini-lotes
+# Implementação do Modelo de Regressão Linear via Gradiente Descendente Estocástico com Mini-lotes
  
 A regressão linear é um dos modelos mais conhecidos no contexto do aprendizado de máquina, resumindo-se à adequação de um modelo linear a dados cujos preditores (features) são altamente correlacionados com o valor que se quer estimar (label). Ela pode ser implementada através do algoritmo de Gradiente Descendente Estocástico, um algoritmo iterativo de otimização dos parâmetros (weights e bias) da função de regressão baseado na minimização da função de custo (ou de perda) por meio do cálculo do gradiente negativo dessa função via amostragem bootstrap, no caso de feito com mini-lotes (mini-batch). 
 
