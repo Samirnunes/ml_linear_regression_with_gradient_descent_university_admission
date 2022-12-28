@@ -1,6 +1,6 @@
 # Modelo de Regressão Linear via Gradiente Descendente Estocástico com Mini-lotes
 
-Há dois notebooks:
+Há dois notebooks neste repositório:
 
 - implementation.ipynb: contém a implementação passo-a-passo do modelo de regressão linear utilizando gradiente descendente estocástico com mini-lotes.
 - training_validation_test.ipynb: contém uma aplicação prática do modelo, apresentando também as funções utilizadas para dividir os dados em training, validation e test.
