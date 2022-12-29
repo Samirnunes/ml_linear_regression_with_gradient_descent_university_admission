@@ -4,7 +4,7 @@ Há três notebooks neste repositório:
 
 - 01_implementation.ipynb: contém a implementação passo-a-passo do modelo de regressão linear utilizando gradiente descendente estocástico com mini-lotes.
 - 02_training_validation_test.ipynb: contém uma aplicação prática do modelo, apresentando também as funções utilizadas para dividir os dados em training, validation e test.
-- 03_regularization_model.ipynb: contém a implementação passo-a-passo do modelo utilizando também minimização do structural risk e regularização de complexidade.
+- 03_regularization_model.ipynb: contém a implementação passo-a-passo do modelo utilizando também minimização do structural risk e regularização de complexidade via fórmula de regularização L2.
  
 A regressão linear é um dos modelos mais conhecidos no contexto do aprendizado de máquina, resumindo-se à adequação de um modelo linear a dados cujos preditores (features) são altamente correlacionados com o valor que se quer estimar (label). Ela pode ser implementada através do algoritmo de Gradiente Descendente Estocástico, um algoritmo iterativo de otimização dos parâmetros (weights e bias) da função de regressão baseado na minimização da função de custo (ou de perda) por meio do cálculo do gradiente negativo dessa função via amostragem bootstrap, no caso de feito com mini-lotes (mini-batch). 
 
