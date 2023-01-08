@@ -10,7 +10,7 @@ A regressão linear é um dos modelos mais conhecidos no contexto do aprendizado
 
 Neste repositório, encontra-se o notebook "01_linreg_model_implementation.ipynb" com a formulação matemática do algoritmo de Gradiente Descendente Estocástico com Mini-lotes e com sua implementação em modelos de regressão linear aplicados no dataset "Data for Admission in the University", disponível no Kaggle, para prever a chance de admissão de estudantes em universidades de diferentes classificações com base em seu desempenho acadêmico anterior. São feitos dois modelos: um modelo de regressão linear com 1 feature, abordando o caso mais simples, e um modelo de regressão linear que suporta um número qualquer de features (o qual é, de fato, utilizado em ciência de dados), aplicado ao caso em que há 6 features contínuas. Há também o notebook "02_linreg_training_validation_test.ipynb" com uma aplicação prática do modelo no mesmo dataset, separando-o em dados de treinamento do modelo, dados de validação e dados de teste, e o notebook "03_linreg_L2_regularization.ipynb", o qual adiciona a ideia de regularização de complexidade ao modelo.
 
-Os notebooks desenvolvem passo-a-passo o modelo de regressão linear seguindo uma lógica para aprendizado da aplicação e implementação do modelo seguindo as boas práticas utilizadas no aprendizado de máquina.
+Os notebooks desenvolvem passo-a-passo o modelo de regressão linear seguindo uma lógica para aprendizado da aplicação e implementação seguindo as boas práticas utilizadas no aprendizado de máquina.
 
 # Dados e Definições (disponíveis também no notebook)
 
