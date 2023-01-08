@@ -12,11 +12,11 @@ Neste repositório, encontra-se o notebook "01_linreg_model_implementation.ipynb
 
 Os notebooks desenvolvem passo-a-passo o modelo de regressão linear seguindo uma lógica para aprendizado da aplicação e implementação seguindo as boas práticas utilizadas no aprendizado de máquina.
 
-# Dados e Definições (disponíveis também no notebook)
+## Dados e Definições (disponíveis também no notebook)
 
 ![alt text](https://github.com/Samirnunes/gradient_descent_implementation/blob/main/Imagens/dados_e_definicoes.PNG)
 
-# Tecnologias e Bibliotecas Utilizadas
+## Tecnologias e Bibliotecas Utilizadas
 
 - Jupyter Notebook
 - Python
