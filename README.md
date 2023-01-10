@@ -1,5 +1,7 @@
 # Modelo de Regressão Linear via Gradiente Descendente Estocástico com Mini-lotes
 
+Link do artigo do Medium associado: https://medium.com/@samir.silva12342/regress%C3%A3o-linear-com-gradiente-descendente-estoc%C3%A1stico-com-mini-lotes-857818864b6a
+
 Há três notebooks neste repositório:
 
 - 01_linreg_model_implementation.ipynb: contém a implementação passo-a-passo do modelo de regressão linear utilizando gradiente descendente estocástico com mini-lotes.
