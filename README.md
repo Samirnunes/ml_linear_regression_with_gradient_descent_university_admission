@@ -1,6 +1,6 @@
 # Modelo de Regressão Linear via Gradiente Descendente Estocástico com Mini-lotes
 
-Link do artigo do Medium associado: https://medium.com/@samir.silva12342/regress%C3%A3o-linear-com-gradiente-descendente-estoc%C3%A1stico-com-mini-lotes-857818864b6a
+Link do artigo associado do Medium: https://medium.com/@samir.silva12342/regress%C3%A3o-linear-com-gradiente-descendente-estoc%C3%A1stico-com-mini-lotes-857818864b6a
 
 Há três notebooks neste repositório:
 
