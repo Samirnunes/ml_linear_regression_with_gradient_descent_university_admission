@@ -4,7 +4,7 @@ Link do artigo do Medium associado: https://medium.com/@samir.silva12342/regress
 
 Há três notebooks neste repositório:
 
-- 01_linreg_model_implementation.ipynb: contém a implementação passo-a-passo do modelo de regressão linear utilizando gradiente descendente estocástico com mini-lotes.
+- 01_linreg_model_implementation.ipynb: contém a implementação passo-a-passo do modelo de regressão linear utilizando Gradiente Descendente Estocástico com Mini-lotes.
 - 02_linreg_training_validation_test.ipynb: contém uma aplicação prática do modelo, apresentando também as funções utilizadas para dividir os dados em training, validation e test.
 - 03_linreg_L2_regularization.ipynb: contém a implementação passo-a-passo do modelo utilizando também minimização do structural risk e regularização de complexidade via fórmula de regularização L2.
  
